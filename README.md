@@ -89,7 +89,7 @@ The `export_pdf` views leverage **xhtml2pdf** to render current database states 
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/ahsanrizvi99/paris2024-analytics.git](https://github.com/ahsanrizvi99/paris2024-analytics.git)
+git clone [https://github.com//paris2024-analytics.git](https://github.com//paris2024-analytics.git)
 cd paris2024-analytics
 
 ```
